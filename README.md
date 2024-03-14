@@ -9,7 +9,7 @@ gencai.aternos.me:15811
 * Required mods for server: [Mods](mods)
 * Whitelist request: [Whitelist request](https://github.com/jvblx/mc-server/issues/new/choose)
 
-## Mod requirements (v1.20.1)
+>Mod requirements (v1.20.1)
 
 * architectury
     * version `9.1.12`
