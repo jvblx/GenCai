@@ -2,9 +2,9 @@
 > Kratky doprovod k instalacii a spustenia servera.
 
 Dolezite linky:
-[![NPM Version] [https://fabricmc.net]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![NPM Version]][https://fabricmc.net]
+[![Build Status]][travis-url]
+[![Downloads Stats]][npm-url]
 
 ## Instalacia
 
