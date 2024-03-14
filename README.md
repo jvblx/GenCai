@@ -10,6 +10,11 @@ gencai.aternos.me:15811
 * Required [mods](mods)
 * [Whitelist](https://github.com/jvblx/mc-server/issues/new/choose) request
 
+>Whitelist request guide
+* Fill the Title with your minecraft username.
+* Fill the Description with reason why you want to join our server.
+* Simple Submit your request with button bellow.
+
 >Mod requirements (v1.20.1)
 
 * architectury
