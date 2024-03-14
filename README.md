@@ -1,5 +1,5 @@
 # Gencai Minecraft Server
-> Short guide for joining our server.
+> server ip address.
 ```sh
 gencai.aternos.me:15811
 ```
