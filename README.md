@@ -1,5 +1,5 @@
 # Gencai Minecraft Server
-> server ip address.
+> server ip address
 ```sh
 gencai.aternos.me:15811
 ```
