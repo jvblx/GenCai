@@ -6,7 +6,7 @@ gencai.aternos.me:15811
 
 >Links:
 * Minecraft [Fabric](https://fabricmc.net)
-* Required [mods](mods) for server
+* Required [mods](mods)
 * [Whitelist](https://github.com/jvblx/mc-server/issues/new/choose) request
 
 >Mod requirements (v1.20.1)
