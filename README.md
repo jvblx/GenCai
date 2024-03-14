@@ -5,9 +5,9 @@ gencai.aternos.me:15811
 ```
 
 Links:
-* Fabric loader[Fabric loader](https://fabricmc.net)
-* Required mods[Mods](mods)
-* Whitelist request[Whitelist request][(https://github.com/jvblx/mc-server/issues/new/choose)]
+* Fabric loader[Fabric loader ](https://fabricmc.net)
+* Required mods[Mods ](mods)
+* Whitelist request[Whitelist request ](https://github.com/jvblx/mc-server/issues/new/choose)
 
 ## Mod requirements (v1.20.1)
 
