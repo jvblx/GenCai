@@ -1,10 +1,11 @@
 # Gencai Minecraft Server
-Server ip address
+
+>Server ip address
 ```sh
 gencai.aternos.me:15811
 ```
 
->Links:
+>Links
 * Minecraft [Fabric](https://fabricmc.net)
 * Required [mods](mods)
 * [Whitelist](https://github.com/jvblx/mc-server/issues/new/choose) request
