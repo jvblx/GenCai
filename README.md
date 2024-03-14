@@ -8,7 +8,7 @@ Links:
 
 ## How to join
 
-Server ip:
+Server ip address:
 
 ```sh
 gencai.aternos.me:15811
